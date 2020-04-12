@@ -58,7 +58,7 @@ python3 ./manim.py example_scenes.py SquareToCircle -pl
 
 ## Anaconda Install
 
-* Install sox and latex as above. 
+* Install sox and latex as above. Sox can be installed on mac using `HomeBrew`.
 * Create a conda environment using `conda env create -f environment.yml`
 * **WINDOWS ONLY** Install `pyreadline` via `pip install pyreadline`. 
 
